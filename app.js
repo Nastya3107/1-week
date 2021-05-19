@@ -24,7 +24,7 @@ str= string.slice(0,-6);
 let a= 20;
 let b= 16;
 b="16";
-str = a+b;
+str = a+b;git 
 // обьекты;
 let obj ={
   product:'iphone',
@@ -34,5 +34,5 @@ obj.currency='dollar';
 obj.details={};
 obj.details.model='M';
 obj.details.color=' black';
-
+ 
 console.log(obj);
