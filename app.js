@@ -34,5 +34,5 @@ obj.currency='dollar';
 obj.details={};
 obj.details.model='M';
 obj.details.color=' black';
-
+ 
 console.log(obj);
