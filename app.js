@@ -24,7 +24,7 @@ str= string.slice(0,-6);
 let a= 20;
 let b= 16;
 b="16";
-str = a+b;git 
+str = a+b;
 // обьекты;
 let obj ={
   product:'iphone',
